@@ -1,5 +1,5 @@
 # I Got Urls
-WaybackURLS + OtxURLS + CommonCrawl = The Best Results
+WaybackURLS + OtxURLS + CommonCrawl
 
 ## Usage
 `python3 igoturls.py yourdomain.com`
